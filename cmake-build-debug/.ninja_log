@@ -1,0 +1,27 @@
+# ninja log v6
+3	849	7561785159381567	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	e5d9b61afd466e45
+850	942	7561785167847281	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1034	7561791729345982	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1034	1111	7561791739659761	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1015	7561792142317509	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1016	1090	7561792152447864	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1016	7561792738828689	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1017	1087	7561792748956144	MatrixMultiplication.exe	db5a33a262ff48c5
+3	997	7561793475376206	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+998	1070	7561793485319970	MatrixMultiplication.exe	db5a33a262ff48c5
+4	1021	7561793806116926	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1021	1090	7561793816291152	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1022	7561794490527839	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1023	1093	7561794500732904	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1024	7561799400896374	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1025	1099	7561799410997920	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1006	7561800227709271	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1006	1076	7561800237740408	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1030	7561800422765355	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1030	1099	7561800433036337	MatrixMultiplication.exe	db5a33a262ff48c5
+3	1014	7561800592398999	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1014	1092	7561800602518267	MatrixMultiplication.exe	db5a33a262ff48c5
+4	1099	7561888013616242	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1100	1186	7561888024572140	MatrixMultiplication.exe	db5a33a262ff48c5
+5	1039	7561890668873779	CMakeFiles/MatrixMultiplication.dir/main.cpp.obj	1bd76eb9daa16848
+1039	1112	7561890679212932	MatrixMultiplication.exe	db5a33a262ff48c5
